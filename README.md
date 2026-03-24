@@ -1,8 +1,13 @@
 # Articulate-Storyline-360_Introduction-to-AI
 
 **Technical Stack**
+
 Authoring Tool: Articulate Storyline 360 (HTML5)
+
+Supporting Technology: Animaker, Pixlr, Veo, Gemini
+
 Methodology: Iterative Design, Cognitive Theory of Multimedia Learning
+
 Deployment: GitHub Pages
 
 **Project**: Generative AI Integration: Prompt Engineering for Strategic Workforce Productivity
