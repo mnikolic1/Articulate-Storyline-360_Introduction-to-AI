@@ -14,7 +14,7 @@ Deployment: GitHub Pages
 
 **Project Overview:** This project serves as the first part of a module to improve AI use in the workplace. It addresses the common organizational challenge of "AI ambiguity", where team members have access to powerful tools but lack the structural framework to produce high-value, reliable outputs. By analyzing the gap between "Basic Searching" and "Strategic Prompting," this training provides a roadmap for utilizing Generative AI as a central engine for project management and workflow optimization.
 
-**The Transformation Goal:** To transition a workforce from reactive, low-quality AI interactions to a proactive, standardized Prompt Design methodology that ensures output accuracy, reduces manual revision time, and integrates seamlessly into MS Planner-based project workflows.
+**The Transformation Goal:** To transition a workforce from reactive, low-quality AI interactions to a proactive, standardized Prompt Design methodology that ensures output accuracy, reduces manual revision time, and integrates seamlessly into project workflows.
 
 **Instructional Architecture**
 
