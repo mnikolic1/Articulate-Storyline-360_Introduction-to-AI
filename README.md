@@ -4,7 +4,7 @@
 
 Authoring Tool: Articulate Storyline 360 (HTML5)
 
-Supporting Technology: Animaker, Pixlr, Veo, Gemini
+Supporting Technology: Animaker, Pixlr, Veo, Nano Banana
 
 Methodology: Iterative Design, Cognitive Theory of Multimedia Learning
 
